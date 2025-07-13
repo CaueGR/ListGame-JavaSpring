@@ -63,4 +63,7 @@ GameList
 id: Identificador único <br>
 name: Nome da lista <br>
 
-![Captura de tela 2024-11-16 170623](
+![Captura de tela 2024-11-16 170623](image.png)
+
+<h1>🌟 Agradecimentos</h1>
+Agradeço à DevSuperior pelo conteúdo de qualidade e pela oportunidade de aprofundar meus conhecimentos em Java e Spring Boot.
